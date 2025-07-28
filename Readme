@@ -1,29 +1,57 @@
-# 👋 Hello! I'm Arkaneell Roy
+<h1 align="center">Hi, I'm Arkaneell Roy 👋</h1>
 
-🎓 CSE Undergrad | Aspiring Researcher | ML & DL Enthusiast  
-🔬 Focused on solving real-world problems using Deep Learning, GNNs, and HPC.  
-📚 GATE Aspirant | Interested in Computational Physics & Applied AI  
-🌏 On a mission to contribute to impactful research & open-source AI.
+<p align="center">
+  💻 B.Tech CSE | 🎯 GATE Aspirant | 🔬 Aspiring ML Researcher <br>
+  Passionate about bridging Deep Learning with real-world problems in science, sustainability, and society.
+</p>
 
-## 🚀 Projects Snapshot
-- 💧 **Hydro-powered Zero Pollution Engine**: Green innovation using mechanical-electronic design.
-- 🧠 **ISL Detection**: Real-time sign language recognition using CNN + LSTM.
-- 🧊 **Cryo-ET Protein Labeling (WIP)**: DL-based protein structure recognition.
-- ♻️ **Ez-waste**: ML + Cloud Engineering for intelligent e-waste classification.
-- 📊 **Auto-eval**: An end-to-end pipeline for automated ML model evaluation.
-- 🛠️ **Equicraft**: A Tool to suggest material properties using supervised learning.
-- 🧑‍🤝‍🧑 **RCG-Net / TRF-Net**: Face recognition using triplet loss + ResNet50 backbone.
-- 🌫️ **Atmosight-AI (WIP)**: Air pollution estimation using GNN-based models.
+---
 
-## 📌 Focus Areas
-- Deep Learning (CNN, RNN, Transformers)
-- Explainable AI
-- Scientific ML & Physics-Informed Neural Networks
-- Cryo-EM / Cryo-ET image modeling
-- HPC (Quantum ESPRESSO, SLURM)
+## 🚀 Current Focus
 
-## 📬 Connect
-- 💼 [LinkedIn](www.linkedin.com/in/arkaneell-roy)
-- 🌐 [Portfolio Website](https://yourname.github.io)
-- 📫 Email: neell3105@gmail.com
+- 📘 Preparing for **GATE CSE**
+- 🧠 Exploring **AI for Science**, especially in **computational biology**, **environmental monitoring**, and **sustainable tech**
+- 🧪 Hands-on with **Deep Learning**, **Graph Neural Networks**, and **Cloud-native ML solutions**
+- 🌟 Open to **research internships**, collaborations, and project mentoring opportunities
 
+---
+
+## 🧩 Projects
+
+| Project | Role | Tech Stack | Domain | Status |
+|--------|------|------------|--------|--------|
+| 🛠️ **[Hydro-powered Zero Pollution Engine](#)** | Team Member | Embedded Systems, Concept Prototyping | Sustainable Energy | ✅ Completed |
+| 🤟 **[Indian Sign Language Detection](#)** | Team Member | CNNs, TensorFlow | Accessibility, CV | ✅ Completed |
+| 🧬 **[Cryo-ET DL Framework](#)** | Individual | Deep Learning, BioVision | Structural Biology | ⏳ Pending |
+| ♻️ **[Ez-Waste](#)** | ML Dev + Cloud Engr | FastAPI, MLflow, AWS | Smart Waste Mgmt | ✅ Completed |
+| 📊 **[Auto-eval](#)** | ML Developer | Classification Metrics | EdTech / ML Tooling | ✅ Completed |
+| ⚖️ **[Equicraft](#)** | ML Developer | Multi-modal ML | Materials Science | ✅ Completed |
+| 🧠 **[RCG-Net](#)** | ResNet-50 | Triplet Loss | Face Recognition | ✅ Completed |
+| 🧠 **[TRF-Net](#)** | ResNet-50 | Triplet Loss + Robust Features | Face Recognition | ✅ Completed |
+| 🌫️ **[Atmosight-AI](#)** | GNN Dev | PyTorch Geometric, Sensor Data | Environmental AI | 🚧 In Progress |
+
+> 🧩 Each project will be open-sourced with a complete README, notebooks, and deploy-ready modules soon.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages**: Python, C, Bash  
+- **ML/DL Frameworks**: PyTorch, TensorFlow, Scikit-learn  
+- **Tools**: Git, Docker, FastAPI, Streamlit, SLURM, MLflow  
+- **Scientific Stack**: NumPy, Pandas, OpenCV, Matplotlib, Quantum ESPRESSO  
+- **Domains**: Deep Learning, GNNs, HPC, Computational Physics, Cloud ML
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: your.email@example.com *(replace with your real one)*
+- 🌐 LinkedIn / Research Blog / Kaggle (coming soon)
+- 🚀 Always up for idea jams, open-source collabs, and ML + Science projects!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Arkaneell's GitHub Stats" />
+</p>
